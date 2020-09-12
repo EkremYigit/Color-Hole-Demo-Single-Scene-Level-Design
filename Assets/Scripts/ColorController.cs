@@ -7,7 +7,7 @@ public class ColorController : MonoBehaviour
 {
     //this script helps to manage colors for each individual levels.
 
-    [Header("--Materials--")] [SerializeField]
+    [Header("--HeaderDegişti--")] [SerializeField]
     private Camera _cameraBackgroundMaterial;
 
     [SerializeField] private Material gameAreaMaterial;

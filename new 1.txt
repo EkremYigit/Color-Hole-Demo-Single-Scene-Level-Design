@@ -1,0 +1,8 @@
+İç içe çok if var ise STATE MACHINE kullanmak cok daha etkili.,
+
+public abstract void Functionlar atandığı class çağırıldığında olan abstract fonksiyonları çağırmaya zorlar.
+public override void ile içlerine yazilir.
+
+interface implements , 
+
+Snapdragon 820
